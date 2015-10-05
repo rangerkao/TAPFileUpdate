@@ -13,4 +13,4 @@ for file in $libDir;    do
     append $file 
 done 
 
-java -cp $temp TAPFileUpdate CDTHAASHKGBM 2280 2290
+java -cp $temp TAPFileUpdate CDTWNLDHKGBM 1387 1387
