@@ -1,7 +1,0 @@
-2015-10-02 16:57:39,175 [ INFO] (TAPFileUpdate.java:65) - One day execute time : 010000
-2015-10-02 16:58:17,261 [ INFO] (TAPFileUpdate.java:65) - One day execute time : 010000
-2015-10-02 16:58:17,264 [ INFO] (TAPFileUpdate.java:154) - Program start...  Fri Oct 02 16:58:17 CST 2015
-2015-10-02 16:58:17,908 [ INFO] (TAPFileUpdate.java:858) - Execute query  CHARGEAREACONFIG:SELECT CHARGEAREACODE,AREAREFERENCE FROM CHARGEAREACONFIG A 
-2015-10-02 16:58:19,799 [ INFO] (TAPFileUpdate.java:305) - Execute query TAPInPartner:SELECT A.PARTNERID,A.NAME,A.FILEPREFIX,A.FILENUMBERLEN,A.LASTPROCESSFILENO FROM TAPINPARTNER A 
-2015-10-02 16:58:19,833 [ERROR] (TAPFileUpdate.java:449) - The workDir not a folder!
-2015-10-02 16:58:20,366 [ INFO] (TAPFileUpdate.java:209) - Program end... (run time = 3103)
